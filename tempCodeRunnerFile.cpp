@@ -1,4 +1,3 @@
-   // for(auto i : nums)
-    // {
-    //     cout << i << " ";
-    // }
+
+    }
+    value = value * pow(10,count);
