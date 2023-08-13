@@ -1,5 +1,6 @@
 .vscode/
 Unsolved Problems/
-Build_Code.cpp/
-input.txt/
-output.txt/
+/Build_Code.cpp
+/Build_Code.exe
+/input.txt
+/output.txt
