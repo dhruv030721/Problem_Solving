@@ -13,12 +13,12 @@ int main()
             if(a[j] > temp)
             {
                 a[j+1] = a[j];
+                j--;
             }
             else{
                 break;
             }
- 
-            cout << j << " ";
+            // cout << j << " ";
         }
         a[j+1] = temp; 
     }
