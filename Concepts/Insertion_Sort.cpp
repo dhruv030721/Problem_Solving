@@ -18,7 +18,6 @@ int main()
             else{
                 break;
             }
-            // cout << j << " ";
         }
         a[j+1] = temp; 
     }
